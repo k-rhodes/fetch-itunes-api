@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/fetch-itunes-api/static/js/runtime~main.d4054421.js"
   },
   {
-    "revision": "58c753ac81d70d7c70fd",
-    "url": "/fetch-itunes-api/static/js/main.58c753ac.chunk.js"
+    "revision": "93d8522cf9c6df88a20c",
+    "url": "/fetch-itunes-api/static/js/main.93d8522c.chunk.js"
   },
   {
     "revision": "f715b2e0bea123466b14",
     "url": "/fetch-itunes-api/static/js/1.f715b2e0.chunk.js"
   },
   {
-    "revision": "58c753ac81d70d7c70fd",
+    "revision": "93d8522cf9c6df88a20c",
     "url": "/fetch-itunes-api/static/css/main.f9ebd4e3.chunk.css"
   },
   {
-    "revision": "655d7fc1150a019bde9c0d78a4e3f3cf",
+    "revision": "20917a576a8bf6b4577b361629015fca",
     "url": "/fetch-itunes-api/index.html"
   }
 ];
