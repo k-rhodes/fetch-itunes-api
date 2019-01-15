@@ -2,7 +2,7 @@
   "name": "fetch-itunes-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://k-rhodes.github.io/fetch-itunes-api",
+  "homepage": "https://k-rhodes.github.io/fetch-itunes-api",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
