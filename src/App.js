@@ -28,7 +28,6 @@ class App extends Component {
         this.state.currentSearchQuery
       }&limit=50`
     ).then(response => {
-      console.log(response);
       response.json().then(data => {
         this.setState({
           artistData: data.results
